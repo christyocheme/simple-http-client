@@ -1,3 +1,4 @@
+//adding tests use cases for http client
 'use strict'
 
 var chai = require('chai');
