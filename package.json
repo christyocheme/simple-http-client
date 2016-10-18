@@ -1,11 +1,19 @@
 {
   "name": "simple-http-client",
   "version": "1.0.0",
-  "description": "",
-  "main": "tests.js",
+  "description": "A simple command line application that consumes a Public API using a HTTP client library.
+This app will search wikipedia.com based on the string supplied as argument.",
+  "main": "libs/example.js",
   "scripts": {
     "test": "mocha tests.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iykyvic/simple-http-client.git"
+  },
+  "author": "iykyvic<victor.enogwe@gmail.com>",
+  "dependencies": {
+    "xhr": "*",
+  },
   "license": "ISC"
 }
