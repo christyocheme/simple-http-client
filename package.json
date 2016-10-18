@@ -1,0 +1,11 @@
+{
+  "name": "simple-http-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
