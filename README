@@ -1,15 +1,7 @@
 A simple command line application that consumes a Public API using a HTTP client library.
 This app will search wikipedia.com based on the string supplied as argument.
 
-1. To use, install npm, xhr and node
-   run the following commdands inside your project folder
-
-   npm install -g 
-   npm install -g nodejs
-   npm install -g xhr2
-
-
-2. The following commands will get 10 "hello world" articles from wikipedia 
+The following commands will get 10 "hello world" articles from wikipedia 
 
     node libs/example.js hello world
 
