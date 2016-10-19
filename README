@@ -6,7 +6,7 @@ This app will search wikipedia.com based on the string supplied as argument.
    a. npm
    b. node
    c. xhr2
-   run the command below in terminal inside the application directory to install
+   run the commands below in terminal inside the application directory to install
       npm install -g
       npm install nodejs -g
       npm install xhr2 -g
